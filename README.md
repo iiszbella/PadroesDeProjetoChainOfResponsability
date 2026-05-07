@@ -7,3 +7,5 @@ Caso o chamado não seja de sua competência, ele é repassado automaticamente a
 
 Escolhi o suporte técnico como cenário para essa atividade porque ele reflete bem a lógica de escalonamento de problemas: chamados simples são resolvidos rapidamente nos níveis básicos, enquanto os mais complexos são encaminhados para especialistas.
 Isso torna o uso do Chain of Responsibility ideal para organizar o fluxo de atendimento, reduzir acoplamento e facilitar a expansão do sistema.
+
+Diagrama UML - https://drive.google.com/file/d/1bwbggxaBeO81z-kYFQlYNGi2pasj1wFg/view?usp=sharing
